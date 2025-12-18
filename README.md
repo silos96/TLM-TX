@@ -1,4 +1,4 @@
-# Rx_pcm_TLM_TX – GNU Radio Loopback Transceiver
+# Rx_pcm_TLM_TX – GNU Radio Transceiver
 
 ## Overview
 
